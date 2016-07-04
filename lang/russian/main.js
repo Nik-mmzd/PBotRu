@@ -114,7 +114,7 @@ $.lang.register('chatmoderator.colors.message.set', 'задано сообщен
 $.lang.register('chatmoderator.blacklist.message.usage', 'Использование: !moderation blacklistmessage [message]');
 $.lang.register('chatmoderator.blacklist.message.set', 'задано сообщение о черном списке: $1');
 $.lang.register('chatmoderator.permit.time.usage', 'Использование: !moderation permittime [time]');
-$.lang.register('chatmoderator.permit.time.set', 'link permit time set to: $1 seconds.');
+$.lang.register('chatmoderator.permit.time.set', 'разрешенное время для ссылок задано: $1 секунд.');
 $.lang.register('chatmoderator.caps.limit.usage', 'Использование: !moderation capslimit [amount in percent]');
 $.lang.register('chatmoderator.caps.limit.set', 'лимит капса: $1%.');
 $.lang.register('chatmoderator.caps.trigger.length.set', 'задан триггер длины капса: $1');
